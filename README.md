@@ -1,1 +1,1 @@
-# Image-Fuser
+# ImageFuser
