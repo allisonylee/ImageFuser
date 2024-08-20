@@ -2,4 +2,4 @@
 
 Link to paper:
 
-Version 1.0.0 for Windows can be downloaded under "Releases."
+Version 1.0.0 for Mac and Windows OS can be downloaded under "Releases."
