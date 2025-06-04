@@ -21,6 +21,4 @@ extract frames from videos without any programming.
 
 Original video captured through transmission electron microscopy (TEM): [Click here](https://www.dropbox.com/scl/fo/2hpp3uekg4ot36icgn0gw/ACLR7ox9yQ3NmNZv4ATOxE4/004-videoprocessing?dl=0&preview=20240716+HAADF-BF+1146+64000+x-151.mpg&rlkey=19fl0d3ub18bv2pykhmputds1&subfolder_nav_tracking=1)
 
-Final result after fusing 249 frames: ![Fused HAP](https://github.com/allisonylee/ImageFuser/raw/refs/heads/main/fusedHAP.tif)
-
-
+Final result after fusing 249 frames: ![Fused HAP](https://github.com/allisonylee/ImageFuser/raw/refs/heads/main/examples/fusedHAP.tif)
