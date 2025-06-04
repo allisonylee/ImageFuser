@@ -17,13 +17,10 @@ extract frames from videos without any programming.
 
 ## Usage
 
-### Example: Hydroxyapatite
+### Example: Hydroxyapatite (HAP)
 
 Original video captured through transmission electron microscopy (TEM): [Click here](https://www.dropbox.com/scl/fo/2hpp3uekg4ot36icgn0gw/ACLR7ox9yQ3NmNZv4ATOxE4/004-videoprocessing?dl=0&preview=20240716+HAADF-BF+1146+64000+x-151.mpg&rlkey=19fl0d3ub18bv2pykhmputds1&subfolder_nav_tracking=1)
 
-Final result after fusing 249 frames: 
-<img src="https://github.com/user-attachments/assets/762ed68a-f8b4-4946-95dc-9e881818ed92" alt="Description" width="300"/>
+Final result after fusing 249 frames: ![Fused HAP](https://github.com/allisonylee/ImageFuser/raw/refs/heads/main/fusedHAP.tif)
 
-![fused](https://github.com/user-attachments/assets/762ed68a-f8b4-4946-95dc-9e881818ed92)
-![fused](https://github.com/user-attachments/assets/e36bdecf-b435-4d6d-ae39-f6bee6b97674)
 
